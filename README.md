@@ -50,6 +50,8 @@ I'm Purushottam Chand Bohora — a Bachelor of Engineering student in Informatio
   <img src="https://img.shields.io/badge/Vercel-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-00BFFF?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-00BFFF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00BFFF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mastering_Claude-00BFFF?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
