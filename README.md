@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/purushottam-chand-b3ba59265">
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:chandsobit70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sobitchand">
