@@ -8,6 +8,22 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sobitchand&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sobitchand">
+    <img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -61,12 +77,12 @@ I'm Purushottam Chand Bohora — a Bachelor of Engineering student in Informatio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sobitchand&show_icons=true&theme=dark&title_color=00BFFF&icon_color=00BFFF&border_color=00BFFF&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobitchand&layout=compact&theme=dark&title_color=00BFFF&border_color=00BFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sobitchand&show_icons=true&theme=dark&title_color=00BFFF&icon_color=00BFFF&border_color=00BFFF&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobitchand&layout=compact&theme=dark&title_color=00BFFF&border_color=00BFFF&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sobitchand&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&border=00BFFF" />
+  <img src="https://streak-stats.demolab.com?user=sobitchand&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&border=00BFFF&dates=888888" />
 </p>
 
 ---
