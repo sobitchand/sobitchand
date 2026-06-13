@@ -19,6 +19,9 @@
   <a href="mailto:chandsobit70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/sobit.chand">
+    <img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://github.com/sobitchand">
     <img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
