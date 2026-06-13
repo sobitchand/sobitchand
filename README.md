@@ -91,8 +91,8 @@ I'm Purushottam Chand Bohora — a Bachelor of Engineering student in Informatio
 ---
 
 <p align="center">
-  <i>"The people who are crazy enough to think they can change the world are the ones who do."</i><br/>
-  <b>— Steve Jobs</b>
+  <i>""The price of success is pain." Transmuting friction into code, and struggle into structure."</i><br/>
+  
 </p>
 
 <p align="center">
